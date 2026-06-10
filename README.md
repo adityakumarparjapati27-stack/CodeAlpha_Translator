@@ -1,1 +1,3 @@
-# CodeAlpha_Translator
+# CodeAlpha_Translator 
+
+Run - python translator.py
